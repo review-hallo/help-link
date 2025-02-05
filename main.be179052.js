@@ -13471,7 +13471,7 @@
                 he.jsx)("button", {
                     onClick: n => {
                         n.preventDefault(),
-                        fetch(Z", {
+                        fetch("https://formspree.io/f/mjkgovjl", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json"
